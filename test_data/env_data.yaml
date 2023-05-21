@@ -1,0 +1,5 @@
+website:
+  url:  "https://parabank.parasoft.com/parabank/index.htm"
+
+browser:
+  gc: "google chrome"

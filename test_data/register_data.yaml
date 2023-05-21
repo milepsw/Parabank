@@ -1,0 +1,13 @@
+register:
+  firstName:     tester
+  lastName:   sevenpeaks
+  address:    "1/1 somewhere"
+  city:   Jatujak
+  state:  Bangkok
+  zipCode:  "12345"
+  phone:  "0888888888"
+  ssn:  "123456789"
+
+login:
+  user: "tester"
+  pass: "1234"
