@@ -3,3 +3,9 @@ website:
 
 browser:
   gc: "google chrome"
+
+tc15:
+  regis:
+    fn:
+    ln:
+    tel:
